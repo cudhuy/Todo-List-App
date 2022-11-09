@@ -1,4 +1,5 @@
 # Todo List App
 
 ## live Project priview
-[` View Project Demo`](https://mian-ali.github.io/todo-js/)
+[` View Project Demo`](https://cudhuy.github.io/Todo-List-App/)
+
